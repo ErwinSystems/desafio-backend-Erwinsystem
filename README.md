@@ -1,6 +1,6 @@
 # desafio-backend-Erwinsystem
 
-o desafio consistirá em criar uma Api simples sobre <b>revistas em Quadrinhos</b> usando as técnologias Typescript/Javascript e MongoDB, usando como principais libs express e jwt, o dev deverá conectar a Api a um banco não relacinal MongoDB(não há necessidade de hospedar um banco de dados, você pode usa-lo em sua própria maquina).
+o desafio consistirá em criar uma Api simples sobre <b>revistas em Quadrinhos</b> usando as tecnologias Typescript/Javascript e MongoDB, usando como principais libs express e jwt, o dev deverá conectar a Api a um banco não relacinal MongoDB(não há necessidade de hospedar um banco de dados, você pode usa-lo em sua própria maquina).
 a api precisará ter um CRUD, usando os métodos http GET,POST,PUT,DELETE, os dados deverão:
 
 - ser lidos (pelo metodo get)
